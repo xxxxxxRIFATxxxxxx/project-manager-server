@@ -83,7 +83,7 @@
             "name": "Design",
             "title": "A design team can be made up of one designer or a group of designers.",
             "color": "red",
-            "members": [],
+            "members": ["rifat@gmail.com"],
             "creator": "rifat@gmail.com",
             "timestamp": 1662704970215,
             "id": 1
