@@ -92,7 +92,7 @@
             "name": "Tech",
             "title": "A tech team can be made up of one developer or a group of developers.",
             "color": "green",
-            "members": [],
+            "members": ["rifat@gmail.com"],
             "creator": "rifat@gmail.com",
             "timestamp": 1519211809934,
             "id": 2
@@ -101,7 +101,7 @@
             "name": "Sales",
             "title": "A sales team can be made up of one sales executive or a group of sales executives.",
             "color": "blue",
-            "members": [],
+            "members": ["rifat@gmail.com"],
             "creator": "rifat@gmail.com",
             "timestamp": 1519211810362,
             "id": 3
@@ -110,7 +110,7 @@
             "name": "Planning",
             "title": "A planning team can be made up of one planner or a group of planners.",
             "color": "yellow",
-            "members": [],
+            "members": ["rifat@gmail.com"],
             "creator": "rifat@gmail.com",
             "timestamp": 1519129858900,
             "id": 4
